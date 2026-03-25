@@ -1,3 +1,3 @@
-# DreamforgeEngine
+# Dreamforge Engine
 [Dreamforge Engine](https://www.dreamforge-ai.com)
-Dreamforge Engine On-Premise Generative AI for everyone!
+On-Premise Generative AI for everyone!
